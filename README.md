@@ -7,6 +7,8 @@ I pretty much ❤️ getting the nuts and bolts of a project working - so I'm ha
 
 Here's what I'd like to work on (when I get chance).
 
+* Guest Room
+  * I've got a small fleet of Google Chromecast things, and I would like to set up a Guest room tv (like a hotel) with information about what is available on the home network.
 * My own Fanfare
   * I like the wrestling - I'm not a ultra fan, but if I'm watching TV and there's wrestling on... I'll watch it.  So what I'd like to do is have My PC play my own wrestler music when I get home - probably when my bluetooth phone comes into range.I might even crack out an arduino to make that work.
 * I'd like to make a Festival voice of my voice - because primarily I'm interested in how the process works.  
